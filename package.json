@@ -1,0 +1,15 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "a markdown editor/previewer written in node.js/express and react",
+  "main": "server.js",
+  "author": "fafafariba",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "express": "^4.16.4"
+  }
+}
